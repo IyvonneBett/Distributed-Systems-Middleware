@@ -1,0 +1,9 @@
+c:\users\iyvonne bett\documents\visual studio 2017\Projects\WebApplication Addition\WebApplication Addition\bin\Debug\netcoreapp1.1\WebApplication Addition.deps.json
+c:\users\iyvonne bett\documents\visual studio 2017\Projects\WebApplication Addition\WebApplication Addition\bin\Debug\netcoreapp1.1\WebApplication Addition.runtimeconfig.json
+c:\users\iyvonne bett\documents\visual studio 2017\Projects\WebApplication Addition\WebApplication Addition\bin\Debug\netcoreapp1.1\WebApplication Addition.runtimeconfig.dev.json
+c:\users\iyvonne bett\documents\visual studio 2017\Projects\WebApplication Addition\WebApplication Addition\bin\Debug\netcoreapp1.1\WebApplication Addition.dll
+c:\users\iyvonne bett\documents\visual studio 2017\Projects\WebApplication Addition\WebApplication Addition\bin\Debug\netcoreapp1.1\WebApplication Addition.pdb
+c:\users\iyvonne bett\documents\visual studio 2017\Projects\WebApplication Addition\WebApplication Addition\obj\Debug\netcoreapp1.1\WebApplication Addition.csprojResolveAssemblyReference.cache
+c:\users\iyvonne bett\documents\visual studio 2017\Projects\WebApplication Addition\WebApplication Addition\obj\Debug\netcoreapp1.1\WebApplication Addition.AssemblyInfo.cs
+c:\users\iyvonne bett\documents\visual studio 2017\Projects\WebApplication Addition\WebApplication Addition\obj\Debug\netcoreapp1.1\WebApplication Addition.dll
+c:\users\iyvonne bett\documents\visual studio 2017\Projects\WebApplication Addition\WebApplication Addition\obj\Debug\netcoreapp1.1\WebApplication Addition.pdb
